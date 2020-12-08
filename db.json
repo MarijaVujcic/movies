@@ -1,27 +1,27 @@
   
 {
   "cokolada": [
-    "darkcokolada" : [
+    {"darkcokolada" : [
            { "id": 1, "name": "Post 1" },
            { "id": 2, "name": "Post 2" },
            { "id": 3, "name": "Post 3" }
-    ],
-    "browncokolada" :  [
+    ]},
+    {"browncokolada" :  [
            { "id": 1, "name": "Post 22" },
            { "id": 2, "name": "Post 33" },
            { "id": 3, "name": "Post 56" }
     ]
-  ],
+  ]},
   "bombon": [
-    "slatkibomboni" : [
+    {"slatkibomboni" : [
            { "id": 1, "name": "P1" },
            { "id": 2, "name": "P2" },
            { "id": 3, "name": "P3" }
-    ],
-    "kiselibomboni" :  [
+    ]},
+    {"kiselibomboni" :  [
            { "id": 1, "name": "N1" },
            { "id": 2, "name": "N2" },
            { "id": 3, "name": "N3" }
-    ]
+    ]}
   ]
 }
