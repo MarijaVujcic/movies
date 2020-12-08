@@ -1,5 +1,9 @@
   
 {
+  "types" : [
+    {"id":1, "name":"cokolada"},
+    {"id":2, "name":"bombon"}
+    ],
   "cokolada": [
     {"darkcokolada" : [
            { "id": 1, "name": "Post 1" },
