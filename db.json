@@ -1,6 +1,6 @@
   
 {
-  "cokolada": [
+  "1" : {"name": "cokolada","types": [
     {"darkcokolada" : [
            { "id": 1, "name": "Post 1" },
            { "id": 2, "name": "Post 2" },
@@ -11,8 +11,8 @@
            { "id": 2, "name": "Post 33" },
            { "id": 3, "name": "Post 56" }
     ]}
-  ],
-"bombon": [
+  ]},
+  "2" : { "name" : "bombon", "types": [
     {"slatkibomboni" : [
            { "id": 1, "name": "P1" },
            { "id": 2, "name": "P2" },
@@ -23,5 +23,5 @@
            { "id": 2, "name": "N2" },
            { "id": 3, "name": "N3" }
     ]}
-  ]
+  ]}
 }
