@@ -1,9 +1,5 @@
   
 {
-  "types" : [
-    {"id":1, "name":"cokolada"},
-    {"id":2, "name":"bombon"}
-    ],
   "cokolada": [
     {"name":"darkcokolada", "id":1},{"name":"browncokolada", "id":2}],
    "darkcokolada" : [
@@ -16,17 +12,5 @@
            { "id": 2, "name": "Post 33" },
            { "id": 3, "name": "Post 56" }
     
-  ],
-  "bombon": [ {"name":"slatkibomboni", "id":1},{"name":"kiselibomboni", "id":2}],
-   "slatkibomboni" : [
-           { "id": 1, "name": "P1" },
-           { "id": 2, "name": "P2" },
-           { "id": 3, "name": "P3" }
-    ],
-    "kiselibomboni" :  [
-           { "id": 1, "name": "N1" },
-           { "id": 2, "name": "N2" },
-           { "id": 3, "name": "N3" }
-    ]
-  
+]
 }
